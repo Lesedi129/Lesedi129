@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://github.com/LesediM">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRnaTdocWZiY2Rvd3p0MndpZXY4ZWgzNnV6dXZpODlzZmhnaGx4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="280" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBwaHZjangybDBzdWY5aG8xb3dmN2V6YzF6em41YW1jYzRmamV0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="280" />
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 I’m a passionate developer with a creative mindset who enjoys turning ideas into real, functional, and visually engaging products. I love building solutions that are not only effective, but also intuitive and well-designed.
 
 ### 👤 About Me 
-- 🌱 Currently expanding my skills in **C#** and **Artifical Intelligence**.
+- 🌱 Currently expanding my skills in **C#** and **Machine Learning**.
 <br>
 
 <h3 align="left">Connect with me:</h3>
