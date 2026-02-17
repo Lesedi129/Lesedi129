@@ -9,7 +9,7 @@
 
 <br>
 
-### A Software Developer from South Africa
+###  Software Engineer 
 
 I’m a passionate developer with a creative mindset who enjoys turning ideas into real, functional, and visually engaging products. I love building solutions that are not only effective, but also intuitive and well-designed.
 
